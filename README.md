@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 -->
 
-<h1 align="center">⚡Hello, I'm Aries👋 ⚡ </h1>
+<h1 align="center">⚡Hello, I'm Aries👋⚡ </h1>
 
 # 👤 About Me
 
@@ -31,10 +31,10 @@ Here are some ideas to get you started:
   * 📜 **M.S. in Applied Mathematics** | **2023 - 2025** | Institute of Mathematics, College of Science, UP Diliman
 * 🏫 **Academic Affiliation:** Numerical Analysis Scientific Computing (NASC) Group, Institute of Mathematics, UP Diliman
 * 🧪 **Research Interests:** 
-  * ⚙️ Scientific Machine Learning
-  * 📐 Optimization
-  * 🧠 Neural Networks
-  * 📊 Data Science
+  * ⚙️ **Scientific Machine Learning:** (e.g. Physics-Informed Neural Networks (PINNs/PIKANs), Inverse Problems in Partial Differential Equations, Mean Curvature Flow (MCF))
+  * 🧠 **Neural Networks & Artificial Intelligence:** (e.g. Deep Learning Architectures, Kolmogorov–Arnold Networks (KANs), MLPs)
+  * 📐 **Optimization:** (e.g. Gradient-based Methods, Non-Convex Optimization, Saddle Point Escape Mechanics, Operations Research)
+  * 📊 **Data Science:** (e.g. Statistical learning, Applied Data Analytics, Explainable AI (XAI))
 
 
 ## 🌐 Socials:
