@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 # 👤 About Me
 Hi there, I'm Jose Aries E. De Los Santos👋
 
-* 👨‍🏫 **Current Role:** Lecturer | Institute of Mathematics, University of the Philippines Diliman
+* 👨‍🏫 **Current Role:** Lecturer | Institute of Mathematics, College of Science, University of the Philippines Diliman
 * 🎓 **Education:** 
   * 🎯 **Ph.D. in Data Science** | 2025 - Present | Data Science Program, College of Science, UP Diliman
   * 📜 **M.S. in Applied Mathematics** | 2023 - 2025 | Institute of Mathematics, College of Science, UP Diliman
