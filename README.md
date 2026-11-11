@@ -32,17 +32,46 @@ Here are some ideas to get you started:
 </p>
 
 # 👩‍💻 About Me
+
+<div align="left">
+
+## 👤 About & Academic Profile
+
+> 👨‍🏫 **Current Role**  
+> **Lecturer** | Institute of Mathematics, College of Science, University of the Philippines Diliman
+<br/>
+
+> 🎓 **Education**  
+> * 🎯 **Doctor of Philosophy (Ph.D.) in Data Science** | **2025 – Present**  
+>   *Data Science Program, College of Science, UP Diliman*  
+> * 📜 **Master of Science (M.Sc.) in Applied Mathematics** | **2023 – 2025**  
+>   *Institute of Mathematics, College of Science, UP Diliman*  
+<br/>
+
+> 🏫 **Academic Affiliation**  
+> **Numerical Analysis Scientific Computing (NASC) Group**  
+> *Institute of Mathematics, UP Diliman*  
+<br/>
+
+> 🧪 **Research Interests**  
+> * ⚙️ **Scientific Machine Learning:** Physics-Informed Neural Networks (PINNs/PIKANs), Inverse Problems in Partial Differential Equations, Mean Curvature Flow (MCF)  
+> * 🧠 **Neural Networks & Artificial Intelligence:** Deep Learning Architectures, Kolmogorov–Arnold Networks (KANs), MLPs  
+> * 📐 **Optimization:** Gradient-based Methods, Non-Convex Optimization, Saddle Point Escape Mechanics, Operations Research  
+> * 📊 **Data Science:** Statistical Learning, Applied Data Analytics, Explainable AI (XAI)
+
+</div>
+
 <!-- * **Full Name:** ``Jose Aries E. De Los Santos`` -->
-* 👨‍🏫 **Current Role:** Lecturer | Institute of Mathematics, College of Science, University of the Philippines Diliman
+<!-- * 👨‍🏫 **Current Role:** Lecturer | Institute of Mathematics, College of Science, University of the Philippines Diliman
 * 🎓 **Education:** 
-  * 🎯 **Ph.D. in Data Science** | **2025 - Present** | Data Science Program, College of Science, UP Diliman
-  * 📜 **M.S. in Applied Mathematics** | **2023 - 2025** | Institute of Mathematics, College of Science, UP Diliman
+  * 🎯 **Doctor of Philosophy (Ph.D.) in Data Science** | **2025 - Present** | Data Science Program, College of Science, UP Diliman
+  * 📜 **Master of Science (M.Sc.) in Applied Mathematics** | **2023 - 2025** | Institute of Mathematics, College of Science, UP Diliman
 * 🏫 **Academic Affiliation:** Numerical Analysis Scientific Computing (NASC) Group, Institute of Mathematics, UP Diliman
 * 🧪 **Research Interests:** 
   * ⚙️ **Scientific Machine Learning:** (e.g. Physics-Informed Neural Networks (PINNs/PIKANs), Inverse Problems in Partial Differential Equations, Mean Curvature Flow (MCF))
   * 🧠 **Neural Networks & Artificial Intelligence:** (e.g. Deep Learning Architectures, Kolmogorov–Arnold Networks (KANs), MLPs)
   * 📐 **Optimization:** (e.g. Gradient-based Methods, Non-Convex Optimization, Saddle Point Escape Mechanics, Operations Research)
-  * 📊 **Data Science:** (e.g. Statistical learning, Applied Data Analytics, Explainable AI (XAI))
+  * 📊 **Data Science:** (e.g. Statistical learning, Applied Data Analytics, Explainable AI (XAI)) -->
 
 
 ## 🌐 Socials:
