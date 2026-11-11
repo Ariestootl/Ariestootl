@@ -33,30 +33,23 @@ Here are some ideas to get you started:
 
 # 👩‍💻 About Me
 
-<div align="left">
-> 👨‍🏫 **Current Role**  
-> **Lecturer** | Institute of Mathematics, College of Science, University of the Philippines Diliman
-<br/>
+### 👨‍🏫 Current Role
+**Lecturer** | Institute of Mathematics, College of Science, University of the Philippines Diliman
 
-> 🎓 **Education**  
-> * 🎯 **Doctor of Philosophy (Ph.D.) in Data Science** | **2025 – Present**  
->   *Data Science Program, College of Science, UP Diliman*  
-> * 📜 **Master of Science (M.Sc.) in Applied Mathematics** | **2023 – 2025**  
->   *Institute of Mathematics, College of Science, UP Diliman*  
-<br/>
+### 🎓 Education
+* 🎯 **Doctor of Philosophy (Ph.D.) in Data Science** | **2025 – Present**  
+  *Data Science Program, College of Science, UP Diliman*
+* 📜 **Master of Science (M.Sc.) in Applied Mathematics** | **2023 – 2025**  
+  *Institute of Mathematics, College of Science, UP Diliman*
 
-> 🏫 **Academic Affiliation**  
-> **Numerical Analysis Scientific Computing (NASC) Group**  
-> *Institute of Mathematics, UP Diliman*  
-<br/>
+### 🏫 Academic Affiliation
+**Numerical Analysis Scientific Computing (NASC) Group** | Institute of Mathematics, UP Diliman
 
-> 🧪 **Research Interests**  
-> * ⚙️ **Scientific Machine Learning:** Physics-Informed Neural Networks (PINNs/PIKANs), Inverse Problems in Partial Differential Equations, Mean Curvature Flow (MCF)  
-> * 🧠 **Neural Networks & Artificial Intelligence:** Deep Learning Architectures, Kolmogorov–Arnold Networks (KANs), MLPs  
-> * 📐 **Optimization:** Gradient-based Methods, Non-Convex Optimization, Saddle Point Escape Mechanics, Operations Research  
-> * 📊 **Data Science:** Statistical Learning, Applied Data Analytics, Explainable AI (XAI)
-
-</div>
+### 🧪 Research Interests
+* ⚙️ **Scientific Machine Learning:** Physics-Informed Neural Networks (PINNs/PIKANs), Inverse Problems in PDEs, Mean Curvature Flow (MCF)
+* 🧠 **Neural Networks & AI:** Deep Learning Architectures, Kolmogorov–Arnold Networks (KANs), MLPs
+* 📐 **Optimization:** Gradient-based Methods, Non-Convex Optimization, Saddle Point Escape Mechanics, Operations Research
+* 📊 **Data Science:** Statistical Learning, Applied Data Analytics, Explainable AI (XAI)
 
 <!-- * **Full Name:** ``Jose Aries E. De Los Santos`` -->
 <!-- * 👨‍🏫 **Current Role:** Lecturer | Institute of Mathematics, College of Science, University of the Philippines Diliman
