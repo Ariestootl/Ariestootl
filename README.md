@@ -47,6 +47,12 @@ Here are some ideas to get you started:
 <!--
 ![](https://github-readme-stats.shion.dev/api?username=Ariestootl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 -->
+
+![](https://streak-stats.demolab.com/?user=Ariestootl&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ariestootl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ariestootl/Ariestootl/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ariestootl/Ariestootl/pacman-output/pacman-contribution-graph.svg?game=pacman">
@@ -56,12 +62,6 @@ Here are some ideas to get you started:
 
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Ariestootl/Ariestootl/snake-output/snake.svg" alt="Snake animation" />
-![](https://streak-stats.demolab.com/?user=Ariestootl&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ariestootl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-
 
 
 
