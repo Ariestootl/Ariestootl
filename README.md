@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 # 👩‍💻 About Me
 
 <div align="left">
-
-## 👤 About & Academic Profile
-
 > 👨‍🏫 **Current Role**  
 > **Lecturer** | Institute of Mathematics, College of Science, University of the Philippines Diliman
 <br/>
