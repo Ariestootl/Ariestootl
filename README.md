@@ -25,14 +25,14 @@ Hi there, I'm Jose Aries E. De Los Santos👋
 
 * 👨‍🏫 **Current Role:** Lecturer | Institute of Mathematics, University of the Philippines Diliman
 * 🎓 **Education:** 
-  * 🎯 **Ph.D. Candidate in Data Science** | Data Science Program, College of Science, UP Diliman
-  * 📜 **M.S. in Applied Mathematics** | Institute of Mathematics, College of Science, UP Diliman
+  * 🎯 **Ph.D. in Data Science** | 2025 - Present | Data Science Program, College of Science, UP Diliman
+  * 📜 **M.S. in Applied Mathematics** | 2023 - 2025 | Institute of Mathematics, College of Science, UP Diliman
 * 🏫 **Academic Affiliation:** Numerical Analysis Scientific Computing (NASC) Group, Institute of Mathematics, UP Diliman
 * 🧪 **Research Interests:** 
-  * ⚡ Physics-Informed Machine Learning (PINNs / PIKANs) & Inverse Problems
-  * 📐 Non-Convex First-Order Optimization & Saddle Point Escape Mechanics
-  * 🌾 Agricultural Climatology & Explainable AI (XAI)
-* 🚀 **Open Source:** Developer of [PAGDA](https://github.com/optimizer-PAGDA/PAGDA-PyTorch) (*Perturbed Adaptive Gradient Descent Algorithm*), an adaptive PyTorch optimizer designed for non-convex loss surfaces and accelerated early-stage convergence.
+  * ⚙️ Scientific Machine Learning
+  * 📐 Optimization
+  * 🧠 Neural Networks
+  * 📊 Data Science
 
 
 ## 🌐 Socials:
