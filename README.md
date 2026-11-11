@@ -24,7 +24,9 @@ Here are some ideas to get you started:
   <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<h1 align="center">⚡Hello, I'm Aries👋⚡ </h1>
+<!-- <h1 align="center">⚡Hello, I'm Aries👋⚡ </h1> -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+bold&size=25&pause=1000&color=F7F7F7&background=1E1E1E00&multiline=true&random=true&width=439&height=56&lines=%E2%9A%A1Hello%2C+I'm+Aries%F0%9F%91%8B%E2%9A%A1)](https://git.io/typing-svg)
 
 # 👩‍💻 About Me
 
