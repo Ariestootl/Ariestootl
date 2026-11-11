@@ -20,9 +20,13 @@ Here are some ideas to get you started:
 # 💫 About Me:
 -->
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <h1 align="center">⚡Hello, I'm Aries👋⚡ </h1>
 
-# 👤 About Me
+# 👩‍💻 About Me
 
 <!-- * **Full Name:** ``Jose Aries E. De Los Santos`` -->
 * 👨‍🏫 **Current Role:** Lecturer | Institute of Mathematics, College of Science, University of the Philippines Diliman
@@ -57,10 +61,11 @@ Here are some ideas to get you started:
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/Ariestootl/Ariestootl/snake-output/snake.svg" alt="Snake animation" />
 
-
-##
-![](https://streak-stats.demolab.com/?user=Ariestootl&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ariestootl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Ariestootl&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+<!-- ![](https://streak-stats.demolab.com/?user=Ariestootl&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ariestootl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 
 <!-- [![](https://komarev.com/ghpvc/?username=Ariestootl&icon=0&color=0)](https://visitcount.itsvg.in) -->
