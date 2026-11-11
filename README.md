@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 </div>
 
 <!-- <h1 align="center">⚡Hello, I'm Aries👋⚡ </h1> -->
-
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+bold&size=25&pause=1000&color=F7F7F7&background=1E1E1E00&multiline=true&random=true&width=439&height=56&lines=%E2%9A%A1Hello%2C+I'm+Aries%F0%9F%91%8B%E2%9A%A1)](https://git.io/typing-svg)
+</div>
 
 # 👩‍💻 About Me
 
