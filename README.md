@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.demolab.com?font=Arial+bold&size=35&pause=1000&color=E8F7BB&background=1E1E1E00&center=true&vCenter=true&multiline=true&random=true&width=439&height=56&lines=%E2%9A%A1Hello%2C+I'm+Aries%F0%9F%91%8B%E2%9A%A1" alt="Typing SVG" />
 </a>
 </p>
+
 # 👩‍💻 About Me
 <!-- * **Full Name:** ``Jose Aries E. De Los Santos`` -->
 * 👨‍🏫 **Current Role:** Lecturer | Institute of Mathematics, College of Science, University of the Philippines Diliman
