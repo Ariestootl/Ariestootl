@@ -33,83 +33,32 @@ Here are some ideas to get you started:
 
 # 👩‍💻 About Me
 
-<table border="0" width="100%">
-  <tr>
-    <td style="padding: 12px;">
-      
-      <h3>👨‍🏫 Current Role</h3>
-      <p><b>Lecturer</b> | <i>Institute of Mathematics, College of Science, University of the Philippines Diliman</i></p>
-      
-      <hr />
-
-      <h3>🎓 Education</h3>
-      <p>
-        🎯 <b>Doctor of Philosophy (Ph.D.) in Data Science</b>  <code>2025 – Present</code><br/>
-             ↳ <i>Data Science Program, College of Science, UP Diliman</i>
-      </p>
-      <p>
-        📜 <b>Master of Science (M.Sc.) in Applied Mathematics</b>  <code>2023 – 2025</code><br/>
-             ↳ <i>Institute of Mathematics, College of Science, UP Diliman</i>
-      </p>
-
-      <hr />
-
-      <h3>🏫 Academic Affiliation</h3>
-      <p>⚡ <b>Numerical Analysis Scientific Computing (NASC) Group</b><br/>
-           ↳ <i>Institute of Mathematics, University of the Philippines Diliman</i></p>
-
-      <hr />
-
-      <h3>🧪 Research Interests</h3>
-      <ul>
-        <li>⚙️ <b>Scientific Machine Learning:</b> Physics-Informed Neural Networks (PINNs/PIKANs), Inverse Problems in Partial Differential Equations, Mean Curvature Flow (MCF)</li>
-        <li>🧠 <b>Neural Networks & Artificial Intelligence:</b> Deep Learning Architectures, Kolmogorov–Arnold Networks (KANs), Multi-Layer Perceptrons (MLPs)</li>
-        <li>📐 <b>Optimization:</b> Gradient-based Methods, Non-Convex Optimization, Saddle Point Escape Mechanics, Operations Research</li>
-        <li>📊 <b>Data Science:</b> Statistical Learning, Applied Data Analytics, Explainable AI (XAI)</li>
-      </ul>
-
-    </td>
-  </tr>
-</table>
-
-<!-- ### 👨‍🏫 Current Role
+## 👨‍🏫 Current Role
 **Lecturer** | Institute of Mathematics, College of Science, University of the Philippines Diliman
 
-### 🎓 Education
+## 🎓 Education
 * 🎯 **Doctor of Philosophy (Ph.D.) in Data Science** | **2025 – Present**  
   *Data Science Program, College of Science, UP Diliman*
 * 📜 **Master of Science (M.Sc.) in Applied Mathematics** | **2023 – 2025**  
   *Institute of Mathematics, College of Science, UP Diliman*
 
-### 🏫 Academic Affiliation
+## 🏫 Academic Affiliation
 **Numerical Analysis Scientific Computing (NASC) Group** | Institute of Mathematics, UP Diliman
 
-### 🧪 Research Interests
-* ⚙️ **Scientific Machine Learning:** Physics-Informed Neural Networks (PINNs/PIKANs), Inverse Problems in PDEs, Mean Curvature Flow (MCF)
-* 🧠 **Neural Networks & AI:** Deep Learning Architectures, Kolmogorov–Arnold Networks (KANs), MLPs
-* 📐 **Optimization:** Gradient-based Methods, Non-Convex Optimization, Saddle Point Escape Mechanics, Operations Research
-* 📊 **Data Science:** Statistical Learning, Applied Data Analytics, Explainable AI (XAI) -->
-
-<!-- * **Full Name:** ``Jose Aries E. De Los Santos`` -->
-<!-- * 👨‍🏫 **Current Role:** Lecturer | Institute of Mathematics, College of Science, University of the Philippines Diliman
-* 🎓 **Education:** 
-  * 🎯 **Doctor of Philosophy (Ph.D.) in Data Science** | **2025 - Present** | Data Science Program, College of Science, UP Diliman
-  * 📜 **Master of Science (M.Sc.) in Applied Mathematics** | **2023 - 2025** | Institute of Mathematics, College of Science, UP Diliman
-* 🏫 **Academic Affiliation:** Numerical Analysis Scientific Computing (NASC) Group, Institute of Mathematics, UP Diliman
-* 🧪 **Research Interests:** 
-  * ⚙️ **Scientific Machine Learning:** (e.g. Physics-Informed Neural Networks (PINNs/PIKANs), Inverse Problems in Partial Differential Equations, Mean Curvature Flow (MCF))
-  * 🧠 **Neural Networks & Artificial Intelligence:** (e.g. Deep Learning Architectures, Kolmogorov–Arnold Networks (KANs), MLPs)
-  * 📐 **Optimization:** (e.g. Gradient-based Methods, Non-Convex Optimization, Saddle Point Escape Mechanics, Operations Research)
-  * 📊 **Data Science:** (e.g. Statistical learning, Applied Data Analytics, Explainable AI (XAI)) -->
+## 🧪 Research Interests
+* ⚙️ **Scientific Machine Learning:** (e.g. Physics-Informed Neural Networks (PINNs/PIKANs), Inverse Problems in Partial Differential Equations, Mean Curvature Flow (MCF))
+* 🧠 **Neural Networks & Artificial Intelligence:** (e.g. Deep Learning Architectures, Kolmogorov–Arnold Networks (KANs), MLPs)
+* 📐 **Optimization:** (e.g. Gradient-based Methods, Non-Convex Optimization, Saddle Point Escape Mechanics, Operations Research)
+* 📊 **Data Science:** (e.g. Statistical learning, Applied Data Analytics, Explainable AI (XAI))
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ariestootl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jedelossantos1@up.edu.ph) 
 
 # 💻 Language and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 Stats:
 <!--
 ![](https://github-readme-stats.shion.dev/api?username=Ariestootl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 -->
