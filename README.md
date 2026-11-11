@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 -->
 
-<h1 align="center">💻 Hey, I'm Aries👋 💻</h1>
+<h1 align="center">⚡Hello, I'm Aries👋 ⚡ </h1>
 
 # 👤 About Me
 
