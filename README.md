@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   *Institute of Mathematics, College of Science, UP Diliman*
 
 ## 🏫 Academic Affiliation
-**Numerical Analysis Scientific Computing (NASC) Group** | Institute of Mathematics, UP Diliman
+**[Numerical Analysis Scientific Computing (NASC) Group](https://math.upd.edu.ph/research/numerical-analysis-and-scientific-computing)** | Institute of Mathematics, UP Diliman
 
 ## 🧪 Research Interests
 * ⚙️ **Scientific Machine Learning:** (e.g. Physics-Informed Neural Networks (PINNs/PIKANs), Inverse Problems in Partial Differential Equations, Mean Curvature Flow (MCF))
