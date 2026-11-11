@@ -47,10 +47,6 @@ Here are some ideas to get you started:
 <!--
 ![](https://github-readme-stats.shion.dev/api?username=Ariestootl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 -->
-
-![](https://streak-stats.demolab.com/?user=Ariestootl&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ariestootl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
 <picture data-importer="pacman">
@@ -59,10 +55,12 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ariestootl/Ariestootl/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-
-
 <img data-importer="snake" src="https://raw.githubusercontent.com/Ariestootl/Ariestootl/snake-output/snake.svg" alt="Snake animation" />
 
+
+##
+![](https://streak-stats.demolab.com/?user=Ariestootl&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ariestootl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!-- [![](https://komarev.com/ghpvc/?username=Ariestootl&icon=0&color=0)](https://visitcount.itsvg.in) -->
