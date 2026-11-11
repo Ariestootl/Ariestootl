@@ -38,9 +38,11 @@ Here are some ideas to get you started:
 
 ## 🎓 Education
 * 🎯 **Doctor of Philosophy (Ph.D.) in Data Science** | **2025 – Present**  
-  *Data Science Program, College of Science, UP Diliman*
+  *Data Science Program, College of Science, University of the Philippines (UP) Diliman*
 * 📜 **Master of Science (M.Sc.) in Applied Mathematics** | **2023 – 2025**  
-  *Institute of Mathematics, College of Science, UP Diliman*
+  *Institute of Mathematics, College of Science, University of the Philippines (UP) Diliman*
+* 📜 **Bachelor of Science (B.Sc.) in Marine Transportation** | **2013 – 2018**  
+  *Maritime Academy of Asia and the Pacific*
 
 ## 🏫 Academic Affiliation
 **[Numerical Analysis Scientific Computing (NASC) Group](https://math.upd.edu.ph/research/numerical-analysis-and-scientific-computing)** | Institute of Mathematics, UP Diliman
