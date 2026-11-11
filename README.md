@@ -25,8 +25,8 @@ Hi there, I'm Jose Aries E. De Los Santos👋
 
 * 👨‍🏫 **Current Role:** Lecturer | Institute of Mathematics, College of Science, University of the Philippines Diliman
 * 🎓 **Education:** 
-  * 🎯 **Ph.D. in Data Science** | 2025 - Present | Data Science Program, College of Science, UP Diliman
-  * 📜 **M.S. in Applied Mathematics** | 2023 - 2025 | Institute of Mathematics, College of Science, UP Diliman
+  * 🎯 **Ph.D. in Data Science** | **2025 - Present** | Data Science Program, College of Science, UP Diliman
+  * 📜 **M.S. in Applied Mathematics** | **2023 - 2025** | Institute of Mathematics, College of Science, UP Diliman
 * 🏫 **Academic Affiliation:** Numerical Analysis Scientific Computing (NASC) Group, Institute of Mathematics, UP Diliman
 * 🧪 **Research Interests:** 
   * ⚙️ Scientific Machine Learning
