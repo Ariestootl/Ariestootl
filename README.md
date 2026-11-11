@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 # 👤 About Me
-Hi there, I'm Jose Aries E. De Los Santos👋
+Hi there, I'm **Jose Aries E. De Los Santos** 👋
 
 * 👨‍🏫 **Current Role:** Lecturer | Institute of Mathematics, College of Science, University of the Philippines Diliman
 * 🎓 **Education:** 
