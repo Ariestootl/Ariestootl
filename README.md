@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 <h1 align="center">💻 Hey, I'm Aries👋 💻</h1>
 
 # 👤 About Me
-Hi there, I'm **** 👋
 
-* **Full Name:** Jose Aries E. De Los Santos``
+* **Full Name:** ``Jose Aries E. De Los Santos``
 * 👨‍🏫 **Current Role:** Lecturer | Institute of Mathematics, College of Science, University of the Philippines Diliman
 * 🎓 **Education:** 
   * 🎯 **Ph.D. in Data Science** | **2025 - Present** | Data Science Program, College of Science, UP Diliman
